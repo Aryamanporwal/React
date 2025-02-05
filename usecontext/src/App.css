@@ -1,0 +1,11 @@
+#Container{
+    box-sizing: border-box;
+    display: flex;
+    height: 200px;
+    width: 200px;
+    border: 1 px solid black;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}

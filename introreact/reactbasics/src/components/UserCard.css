@@ -1,0 +1,13 @@
+.user-conatiner{
+    background-color: black;
+    padding: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    gap:1.5rem;
+}
+
+#user-img{
+    height: 50%;
+    border-radius: 50%;
+}
